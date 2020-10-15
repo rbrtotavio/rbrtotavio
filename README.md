@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Linkedin Profile](https://www.linkedin.com/in/roberto-leite-1899091b2/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm a indigenous descendant.
+- ⚡ Fun fact: ... I'm, technically, a indigenous descendant.
 
