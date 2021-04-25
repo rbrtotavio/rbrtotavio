@@ -1,10 +1,11 @@
 ### Hi there 👋
 I'm Roberto O. P. Leite and I've always been interested in and in love with the IT area of study and commercial aplications.
-Currently I'm a student at the Federal Rural University of Pernambuco (UFRPE) Studying Information Systems.
+Currently I'm a student at the Federal Rural University of Pernambuco (UFRPE) Studying Information Systems and Intern at
+the CIn/Motorola project at the Federal University of Pernambuco(UFPE) as Software Tester.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... my knowledge of Back-end Development
+- 🔭 I’m currently working on ... CIn/Motorola as Software Tester.
 - 🌱 I’m currently learning ... Artificial Inteligence
 - 👯 I’m looking to collaborate on ... Mobile Development
 - 🤔 I’m looking for help with ... Backend Development
