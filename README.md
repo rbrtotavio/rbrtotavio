@@ -5,7 +5,7 @@ the CIn/Motorola project at the Federal University of Pernambuco(UFPE) as Softwa
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... A Motorola test result dashboard (Python).
+- 🔭 I’m currently working on ... A Motorola test result dashboard (Python/GoogleBigQuery/GoogleDataStudio).
 - 🌱 I’m currently learning ... Artificial Inteligence
 - 👯 I’m looking to collaborate on ... Mobile Development
 - 🤔 I’m looking for help with ... Backend Development
