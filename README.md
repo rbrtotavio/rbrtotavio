@@ -5,9 +5,9 @@ the CIn/Motorola project at the Federal University of Pernambuco(UFPE) as Softwa
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... A Motorola test result dashboard (Python/GoogleBigQuery/GoogleDataStudio).
-- 🌱 I’m currently learning ... Artificial Inteligence
-- 👯 I’m looking to collaborate on ... Mobile Development
+- 🔭 I’m currently working on ... A Personal Mobile Projectt (Flutter/Firestore).
+- 🌱 I’m currently learning ... Computational Photography 
+- 👯 I’m looking to collaborate on ... .NET Projects
 - 🤔 I’m looking for help with ... Backend Development
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Through my [Linkedin Profile](https://www.linkedin.com/in/roberto-leite-1899091b2/)
