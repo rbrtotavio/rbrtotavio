@@ -1,5 +1,5 @@
 ### Howdy! 👋
-I'm Roberto O. P. Leite and I've always been interested in and in love with the IT area of study and commercial aplications.
+I'm Roberto O. P. Leite and I've always been interested in IT.
 Currently I'm a student at the Federal Rural University of Pernambuco (UFRPE).
 
 Here are some ideas to get you started:
